@@ -2,8 +2,8 @@
  Adaptive Control of Delta Robot Using xPC Target
 
 ## How to use
-第一次控制实验，应当\br
-1.按驱动器说明书连接电机和驱动器的主电\br
+第一次控制实验，应当<br>
+1.按驱动器说明书连接电机和驱动器的主电<br>
 2.按下面“Wiring”接线，这样数据采集卡的输出电压就可以控制驱动器了\br
 3.用网线连接主机和目标机\br
 4.目标机中放入xpc启动光盘，开机\br
