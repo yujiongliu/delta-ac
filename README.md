@@ -1,5 +1,5 @@
 # delta_ac
- Adaptive Control of Delta Robot Using xPC Target
+Appendix (code) of the Master Thesis in HIT - Adaptive Control of Delta Robot Using xPC Target
 
 ## How to use
 第一次控制实验，应当<br>
